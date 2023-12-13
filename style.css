@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#pageDemarrage, #pageGame {
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+}
+
+/**************************************************************************
+****************************** Page de Demarrage ************************
+**************************************************************************/
+
+
+#pageDemarrage {
+
+}
+
+#buttonStart {
+    height: 100%;
+    width: 100%;
+    border: none;
+    text-decoration: none;
+    background-color: red;
+}
+
+
+/**************************************************************************
+****************************** Page de jeux ************************
+**************************************************************************/
+#pageGame {
+    background-color: blueviolet;
+    top: 0;
+    z-index: -1
+}
