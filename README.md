@@ -1,2 +1,2 @@
 # leJustePrix
- creation du jeu le juste prix
+ Creation du jeu le juste prix
